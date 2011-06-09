@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=formator
+IAge=3
+Name=Code formator
+Description=Do code more readeble
+Authors=Sergey Kuzminskiy
+Copyright=Copyright © 2011 Sergey Kuzminskiy
+Website=http://center.zp.ua
+Version=0.0.1
